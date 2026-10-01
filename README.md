@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shreyanshx/shreyanshx/main/assets/header.svg" width="100%" alt="Shreyansh Gupta - Cloud & DevOps Engineer" />
+  <img src="https://raw.githubusercontent.com/shreyanshx/shreyanshx/main/assets/header.svg" width="100%" alt="Shreyansh - Cloud & DevOps Engineer" />
 </div>
 
 <div align="center">

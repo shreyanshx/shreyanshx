@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,9,20,24,30&height=180&section=header&text=Shreyansh%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+  <img src="https://raw.githubusercontent.com/shreyanshx/shreyanshx/main/assets/header.svg" width="100%" alt="Shreyansh Gupta - Cloud & DevOps Engineer" />
 </div>
 
 <div align="center">
@@ -84,10 +84,4 @@ AWS Cloud & DevOps Engineer with 4+ years of experience engineering secure, reli
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyanshx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshx&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" height="165" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,9,20,24,30&height=100&section=footer" width="100%" alt="Footer" />
 </div>

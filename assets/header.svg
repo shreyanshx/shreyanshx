@@ -82,10 +82,10 @@
   <!-- Header Content -->
   <g text-anchor="middle">
     <!-- Main Name -->
-    <text x="450" y="85" class="name-title">SHREYANSH GUPTA</text>
+    <text x="450" y="85" class="name-title">Shreyansh</text>
 
     <!-- Subtitle -->
-    <text x="450" y="125" class="role-subtitle">CLOUD &amp; DEVOPS ENGINEER  |  PLATFORM AUTOMATION &amp; RELIABILITY</text>
+    <text x="450" y="125" class="role-subtitle">CLOUD &amp; DEVOPS ENGINEER</text>
 
     <!-- Feature Pills -->
     <!-- Pill 1: 43+ AWS Accounts -->
